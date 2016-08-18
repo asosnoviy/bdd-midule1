@@ -1,0 +1,6 @@
+[submodule "vendor/precommit1c"]
+	path = vendor/precommit1c
+	url = https://github.com/xDrivenDevelopment/precommit1c.git
+[submodule "vendor/vanessa-behavior"]
+	path = vendor/vanessa-behavior
+	url = https://github.com/silverbulleters/vanessa-behavior.git

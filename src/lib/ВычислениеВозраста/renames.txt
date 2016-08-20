@@ -1,0 +1,7 @@
+﻿4ea0e19b-0388-4b61-b6fd-ac5f74a5b21f.0\info-->und\4ea0e19b-0388-4b61-b6fd-ac5f74a5b21f.0\info
+4ea0e19b-0388-4b61-b6fd-ac5f74a5b21f.0\text-->ObjectModule.bsl
+b83bbeca-b5c5-4577-aa85-24aaaeb77df0-->und\b83bbeca-b5c5-4577-aa85-24aaaeb77df0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
